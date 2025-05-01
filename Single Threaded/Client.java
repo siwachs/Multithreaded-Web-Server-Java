@@ -24,7 +24,6 @@ public class Client {
             ex.printStackTrace();
             System.err.println(ex.getMessage());
         }
-
     }
 
     public static void main(String[] args) {
